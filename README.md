@@ -9,7 +9,7 @@ Quelques conseils pratiques sur la rédaction d'un mémoire.
     - [Conseils](#conseils)
   - [La forme](#la-forme)
     - [Production du document](#production-du-document)
-    - [Outils pour publier un document technique](#outils-pour-publier-un-document-technique)
+    - [Les outils pour publier un document technique](#les-outils-pour-publier-un-document-technique)
 
 
 ## Le fond
@@ -56,7 +56,7 @@ Votre document doit contenir les éléments suivants :
 - Une table des figures;
 - Un lexique (au besoin);
 - Une pagination;
-- Une bibliographie *organisée* et bien formatée. Si l'entrée est un document sur le web, l'URL doit être embarquée sous forme d'hyperlien avec un label (comme un lien sur une page web). Chaque item de la bibliographie **doit être citée ou utilisée dans le document**;
+- Une bibliographie *organisée* et bien formatée. Si l'entrée est un document sur le web, l'URL doit être embarquée sous forme d'hyperlien avec un label (comme un lien sur une page web). Chaque item de la bibliographie **doit être cité dans le document**;
 - Des annexes;
 - Des titres de différents niveaux adaptés et cohérents (h1, h2, h3);
 - Une mise en page cohérente (font, taille de la font, couleurs, espacements, etc.);
@@ -67,4 +67,10 @@ Votre document doit contenir les éléments suivants :
 - **50 pages environ** (tolérance de + ou - 10 pages), avec une taille de police de 11 ou 12pt;
 - Format 21 x 29,7cm, orientation portrait;
 
-### Outils pour publier un document technique
+### Les outils pour publier un document technique
+
+Il existe plusieurs outils pour rédiger un document destiné à être publié en PDF ou papier. Les éditeurs WYSIWYG (*What You See Is What You Get*) et les autres, qui font *la salutaire séparation* entre la forme (mise en page) et le fond (contenu).
+
+Si vous utilisez un éditeur WYSIWYG comme Microsoft Word, LibreOffice ou Google Doc, assurez de le maîtriser suffisamment pour [mettre en place les éléments mentionnés précédemment](#production-du-document).
+
+> Choisissez l'outil que vous maîtrisez le mieux. Surtout si vous manquez de temps...
