@@ -101,5 +101,6 @@ Publier revient alors à convertir les sources (ou les compiler) en un document 
 - [DocBook](https://docbook.org/whatis), une application XML développée par l'éditeur O'Reilly dédiée à la publication d'ouvrages techniques et informatiques;
 - [An introduction to DocBook, a flexible markup language worth learning](https://opensource.com/article/17/9/docbook), un tutoriel pour prendre en main DocBook;
 - [Pandoc](https://pandoc.org/), convertisseur universel de document d'un langage markup à l'autre. *Grâce ce formidable outil*, vous pouvez utiliser ou mettre en place de nombreux workflows pour convertir ses sources et publier des documents en travaillant comme il vous convient
+- [Bibtex](https://www.bibtex.org/), outil et format pour gérer une base de données bibliographique (principalement utilisée avec LaTeX)
 
 > Quand j'aurais le temps, des kits de démarrage seront publiés sur ce dépôt pour une ou deux technologies mentionnées
