@@ -39,15 +39,15 @@ Vous êtes donc dans la peau d'un *expert* qui doit *auditer* un système (son e
 
 - Relisez-vous et **faites vous relire par un proche** (même voire surtout hors de votre domaine)
 - Faites des phrases simples et brèves;
-- Utilisez des mots précis et dont vous connaissez bien le sens. Idem, choisissez des verbes *forts* et évitez les verbes génériques. Si vous introduisez un terme, réutiliser-le à nouveau sans introduire de synonyme si ce n'est pas nécessaire;
+- Utilisez des mots précis et dont vous connaissez bien le sens. Idem, choisissez des verbes *forts* et évitez les verbes génériques. Si vous introduisez un terme, réutilisez-le à nouveau sans introduire de synonyme si ce n'est pas nécessaire;
 - Minimisez l'usage d'adjectifs et d'adverbes (souvent trop subjectifs);
 - Transformez les phrases longues et les énumérations en listes à puces (plus lisible);
-- Si vous introduisez un acronyme, l'écrire d'abord sous sa forme complète puis sous sa forme abrégée entre parenthèses. Rester ensuite sur l'acronyme dans la suite du texte;
+- Si vous introduisez un acronyme, l'écrire d'abord sous sa forme complète puis sous sa forme abrégée entre parenthèses. Restez ensuite sur l'acronyme dans la suite du texte;
 - Évitez l'emploi du jargon très spécifique de l'entreprise dont elle seule peut donner la définition. Si de nombreux acronymes et termes techniques, *utilisez un lexique*.
 - Évitez le "franglais" et l'abus de l'anglais;
 - Vérifiez l'orthographe, la grammaire, le style et la ponctuation;
-- Veillez à la lisibilité et à l'utilité des schémas, figures et graphiques;
-- *Légendez* vos figures (identifiant, description). Vous pouvez ainsi vous y référer dans le texte (*Comme le montre la figure 12, ...*).Si pas de référence à la figure dans le texte, supprimez-la ou placez-la en annexe (support optionnel pour aller plus loin);
+- Veillez à la lisibilité et à l'utilité des figures (schémas, graphiques, photos, screenshot, etc.);
+- *Légendez* vos figures (identifiant, description). Vous pouvez ainsi vous y référer dans le texte (*Comme le montre la figure 12, ...*). Si pas de référence à la figure dans le texte, supprimez-la ou placez-la en annexe (support optionnel pour aller plus loin);
 - N'hésitez pas, en conclusion en particulier, à donner votre avis personnel motivé, mais formulez vos éventuelles critiques ou remarques *de manière nuancée et modérée*. Gardez un ton *professionnel*. Préconisez une solution après avoir évalué les avantages et inconvénients, *justifier* votre proposition
 - *Sourcez vos informations* (affirmations, chiffres, statistiques, etc.), soit à l'aide de *citation*. Une *citation* est un lien vers l'entrée correspondante dans la bibliographie du document. Votre éditeur doit vous permettre de gérer les citations de manière automatique. Dans le cas d'une ressource web, mettre un hyperlien vers cette ressource directement dans le texte.
 - *Écrivez d'abord*, mettez en forme ensuite;
@@ -81,7 +81,7 @@ Il existe plusieurs outils pour rédiger un document destiné à être publié e
 
 Si vous utilisez un éditeur WYSIWYG comme Microsoft Word, LibreOffice ou Google Doc, assurez de le maîtriser suffisamment pour [mettre en place les éléments mentionnés précédemment](#production-du-document).
 
-> Choisissez l'outil que vous maîtrisez le mieux. Surtout si vous manquez de temps, ce n'est pas le bon moment pour vous lancer dans l'apprentissage d'un nouvel outil et vous rajouter du stress
+> Choisissez l'outil que vous maîtrisez le mieux, surtout si vous manquez de temps. Ce n'est pas le bon moment pour vous lancer dans l'apprentissage d'un nouvel outil et vous rajouter du stress inutile...
 
 ### Autre solutions
 
