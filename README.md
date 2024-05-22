@@ -11,7 +11,7 @@ Quelques conseils pratiques sur la rédaction d'un mémoire.
     - [Production du document](#production-du-document)
     - [Les outils pour publier un document technique](#les-outils-pour-publier-un-document-technique)
     - [Autre solutions](#autre-solutions)
-    - [Quelques solutions et outils utiles :](#quelques-solutions-et-outils-utiles-)
+    - [Quelques solutions et outils utiles](#quelques-solutions-et-outils-utiles)
 
 
 ## Le fond
@@ -93,7 +93,7 @@ Le plus simple pour écrire et publier un document, est de travailler avec *de s
 
 Publier revient alors à convertir les sources (ou les compiler) en un document PDF, HTML, epub, etc.
 
-### Quelques solutions et outils utiles :
+### Quelques solutions et outils utiles
 
 - [AsciiDoc](https://asciidoc.org/), AsciiDoc est un format markup très simple utilisé principalement pour l'écriture technique;
 - [LaTeX](https://www.latex-project.org/about/), langage et système de composition de documents. Très utilisé dans le milieu académique pour publier des papiers, mémoires, thèses ou des livres;
