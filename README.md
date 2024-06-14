@@ -1,28 +1,34 @@
-# Rédaction du mémoire 
+# Quelques conseils pour rédiger et soutenir un mémoire 
 
-Quelques conseils pratiques sur la rédaction d'un mémoire.
+Quelques conseils pratiques sur la rédaction et la soutenance d'un mémoire.
 
-- [Rédaction du mémoire](#rédaction-du-mémoire)
-  - [Le fond](#le-fond)
-    - [Objectif](#objectif)
-    - [Contenu](#contenu)
-    - [Conseils](#conseils)
-  - [La forme](#la-forme)
-    - [Production du document](#production-du-document)
-    - [Les outils pour publier un document technique](#les-outils-pour-publier-un-document-technique)
-    - [Autre solutions](#autre-solutions)
+- [Quelques conseils pour rédiger et soutenir un mémoire](#quelques-conseils-pour-rédiger-et-soutenir-un-mémoire)
+  - [Rédaction](#rédaction)
+    - [Le fond](#le-fond)
+      - [Objectif](#objectif)
+      - [Contenu](#contenu)
+      - [Conseils](#conseils)
+    - [La forme](#la-forme)
+      - [Production du document](#production-du-document)
+      - [Les outils pour publier un document technique](#les-outils-pour-publier-un-document-technique)
+      - [Autre solutions](#autre-solutions)
     - [Quelques solutions et outils utiles](#quelques-solutions-et-outils-utiles)
+  - [Soutenance](#soutenance)
 
 
-## Le fond
+## Rédaction
 
-### Objectif
+Rédiger un mémoire c'est *produire* un *document* (manuscrit) destiné à l'*impression* (PDF, papier). Le but d'un mémoire c'est avant tout d'être *écrit* (bénéfice pour son auteur·ice : temps de synthèse, bibliographie utile, réflexion documentée et argumentée). Ensuite, c'est d'être *accessible* et *parcouru*, consulté, "lu" par d'autres personnes. Souvent, des personnes intéressées ne liront qu'une, voire deux parties tout au plus. Pour rendre ce document *utile* aux lecteur·ices (dont l'auteur·ice fait partie), il doit donc respecter certaines contraintes, conventions pour faciliter sa lecture.
+
+### Le fond
+
+#### Objectif
 
 Trouver un problème pratique *de l’entreprise* et d’en identifier la dimension théorique. C'est *un état de fait*, le constat d'un problème. Le but est ensuite de transformer la problématique en question afin de la résoudre ou du moins, d'en proposer une solution.
 
 Vous êtes donc dans la peau d'un *expert* qui doit *auditer* un système (son entreprise), *identifier* un problème et *proposer* une ou plusieurs solutions pour le résoudre. Pour cela, vous devez vous appuyer sur votre expérience, vos connaissances et surtout *sur un travail bibliographique*. Il s'agit de prendre du recul, de comprendre ce qu'on fait d'autres personnes qui ont fait face au même problème et de dresser un éventail de solutions connues et documentées. Ces solutions peuvent ensuite être adaptées au contexte de l'entreprise.
 
-### Contenu
+#### Contenu
 
 - La présentation du contexte (entreprise) et des enjeux (problématique);
 - La présentation du sujet, des objectifs et des résultats attendus (comment vérifier que votre solution fonctionne ou non);
@@ -35,7 +41,7 @@ Vous êtes donc dans la peau d'un *expert* qui doit *auditer* un système (son e
 
 > Une suggestion de plan vous a été transmise au sein de l'école.
 
-### Conseils
+#### Conseils
 
 - Relisez-vous et **faites vous relire par un proche** (même voire surtout hors de votre domaine)
 - Faites des phrases simples et brèves;
@@ -52,9 +58,9 @@ Vous êtes donc dans la peau d'un *expert* qui doit *auditer* un système (son e
 - *Sourcez vos informations* (affirmations, chiffres, statistiques, etc.), soit à l'aide de *citation*. Une *citation* est un lien vers l'entrée correspondante dans la bibliographie du document. Votre éditeur doit vous permettre de gérer les citations de manière automatique. Dans le cas d'une ressource web, mettre un hyperlien vers cette ressource directement dans le texte.
 - *Écrivez d'abord*, mettez en forme ensuite;
 
-## La forme
+### La forme
 
-### Production du document
+#### Production du document
 
 Votre document *doit* contenir les éléments suivants :
 
@@ -75,7 +81,7 @@ Votre document *doit* contenir les éléments suivants :
 - **50 pages environ** (tolérance de + ou - 10 pages), avec une taille de police de 11 ou 12pt;
 - Format 21 x 29,7cm, orientation portrait;
 
-### Les outils pour publier un document technique
+#### Les outils pour publier un document technique
 
 Il existe plusieurs outils pour rédiger un document destiné à être publié en PDF ou papier. Il y a notamment les éditeurs *What You See Is What You Get* (WYSIWYG) et les autres, qui font *la salutaire séparation* entre la forme (mise en page) et le fond (contenu).
 
@@ -83,7 +89,7 @@ Si vous utilisez un éditeur WYSIWYG comme Microsoft Word, LibreOffice ou Google
 
 > Choisissez l'outil que vous maîtrisez le mieux, surtout si vous manquez de temps. Ce n'est pas le bon moment pour vous lancer dans l'apprentissage d'un nouvel outil et vous rajouter du stress inutile...
 
-### Autre solutions
+#### Autre solutions
 
 Le plus simple pour écrire et publier un document, est de travailler avec *de simples fichiers textes* et de *séparer* la forme du contenu. Voici quelques avantages de cette approche :
 - *"Separation of concerns"* : l'auteur·ice se concentre sur le contenu et le markup (la hiérarchie de l'information et la sémantique), l'éditeur·ice sur la mise en page. En somme, vous êtes concentré·e sur l'écriture;
@@ -104,3 +110,5 @@ Publier revient alors à convertir les sources (ou les compiler) en un document 
 - [Bibtex](https://www.bibtex.org/), outil et format pour gérer une base de données bibliographique (principalement utilisée avec LaTeX)
 
 > Quand j'aurais le temps, des kits de démarrage seront publiés sur ce dépôt pour une ou deux technologies mentionnées
+
+## Soutenance
