@@ -118,7 +118,7 @@ Publier revient alors à convertir les sources (ou les compiler) en un document 
 
 ## Soutenance
 
-Soutenir son mémoire c'est le défendre. C'est le moment de mettre en valeur votre travail. Vous avez la main durant la première partie (présentation). Insistez sur les parties les plus significatives et développez-les, mettez en retrait celles qui sont moins convaincantes, ou vous semblent moins pertinentes. Il ne s'agit pas de reproduire *à plat* le déroulement du manuscrit, de le rejouer à l'oral. 
+Soutenir son mémoire c'est le défendre. C'est le moment de mettre en valeur votre travail. Vous avez la main durant la première partie (présentation). **Insistez sur les parties les plus significatives et développez-les, mettez en retrait celles qui sont moins convaincantes, ou vous semblent moins pertinentes**. Il ne s'agit pas de reproduire *à plat* le déroulement du manuscrit, ni de le "rejouer" à l'oral. 
 
 ### Contraintes
 
