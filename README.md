@@ -14,6 +14,11 @@ Quelques conseils pratiques sur la rédaction et la soutenance d'un mémoire.
       - [Autre solutions](#autre-solutions)
     - [Quelques solutions et outils utiles](#quelques-solutions-et-outils-utiles)
   - [Soutenance](#soutenance)
+    - [Contraintes](#contraintes)
+    - [Quelques conseils généraux](#quelques-conseils-généraux)
+    - [Quelques conseils sur le support de présentation](#quelques-conseils-sur-le-support-de-présentation)
+    - [Quelques conseils sur la présentation](#quelques-conseils-sur-la-présentation)
+    - [Ressources utiles](#ressources-utiles)
 
 
 ## Rédaction
@@ -112,3 +117,56 @@ Publier revient alors à convertir les sources (ou les compiler) en un document 
 > Quand j'aurais le temps, des kits de démarrage seront publiés sur ce dépôt pour une ou deux technologies mentionnées
 
 ## Soutenance
+
+Soutenir son mémoire c'est le défendre. C'est le moment de mettre en valeur votre travail. Vous avez la main durant la première partie (présentation). Insistez sur les parties les plus significatives et développez-les, mettez en retrait celles qui sont moins convaincantes, ou vous semblent moins pertinentes. Il ne s'agit pas de reproduire *à plat* le déroulement du manuscrit, de le rejouer à l'oral. 
+
+### Contraintes
+
+La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échange avec le jury de 25 minutes.
+
+### Quelques conseils généraux
+
+- **Racontez une histoire**, votre progression doit faire sens;
+- Dans le jury, certains membres auront lu le mémoire (rapporteur), d'autres non. **Les deux doivent pouvoir suivre votre présentation**. Les rapporteurs auront plus de détails, ils vous poseront généralement des questions sur le manuscrit pour éclaircir des points;
+- **Soyez critique** de votre propre travail (sans le démonter !), prenez du recul. Vous avez eu un temps *fini* pour réaliser ce travail, forcément vous n'avez pas pu faire tout ce que vous auriez voulu faire. **Votre travail a des limites, il faut les connaître**. Montrer dans quelle direction vous iriez si vous aviez plus de ressources pour continuer ce travail;
+- Pensez à **conclure** et à ouvrir des perspectives (concrètes);
+- **Ne restez pas trop général et évasif**; parlez du problème à résoudre et des choses concrètes mises en place pour le résoudre en enterprise;
+
+### Quelques conseils sur le support de présentation
+
+- Si vous utilisez une application web pour votre support, **ayez une copie locale** (même dégradée) sur votre machine. Vous n'êtes jamais à l'abri d'un problème de connexion à Internet;
+- **Préférez une présentation en PDF**, c'est un format standardisé et léger;
+- Si vous avez une présentation plus riche (interactive, médias, etc.), disposez quand même une version PDF sous la main *au cas où*;
+- **Évitez les transitions et les animations inutiles**. Une animation est utile si elle est utile au propos (description d'un processus, d'une méthode, etc.);
+- Les slides sont un *support*, elles ne doivent pas faire la présentation à votre place;
+- Faites la **relire**, corrigez les fautes;
+- Veillez à la **lisibilité** des schémas, figures et du texte;
+- Tailles de police recommandées :
+  - Titre principal (h1) : 44pt;
+  - Titres (h2) : entre 28 et 36pt;
+  - Texte (p) : 24pt et 28pt;
+  - Mentions obligatoires (légal) : 8 à 10pt
+- **Numérotez vos slides !** Très important pour la partie question (le jury peut noter le numéro pour y revenir);
+- Ne chargez pas trop vos slides, aérez-les;
+- **Utilisez un schéma, une image, une figure plutôt que du texte** et commentez-là;
+- S'il y a du texte, **donnez du temps au jury de le lire**;
+- **Légendez vos figures**, tableaux, images. Indiquer la source de vos informations
+- Vous avez 25 minutes, vous ne devriez pas avoir plus de 25 slides (sauf cas d'animation "slide" par "slide"). Vous devez avoir des choses à dire sur chaque slide;
+- **Préparez des slides en annexe** (après la conclusion) pour la partie question. Si vous pensez que l'on va venir discuter un point précis, préparez vous des slides sur ce point. Cela vous offrira un support pour vous défendre;
+- **Placez les remerciements au début** de votre présentation, pas à la fin;
+- **Ne mettez pas une slide "Merci de votre attention" ou "Des questions ?" pour conclure**. Dites-le et **mettez une dernière slide utile** car elle risque de rester à l'écran pendant une partie des questions (voire 25 minutes !). L'idéal c'est qu'il y ait quelque chose en lien avec ce que votre travail a apporté (quelle est votre contribution à l'entreprise, quelles solutions avez-vous apportées au problème identifié)
+
+
+### Quelques conseils sur la présentation
+
+- **Répétez !** Répéter, même une fois, votre présentation est indispensable pour comprendre le flot de votre présentation. Répétez au moins deux fois. Quelqu'un qui n'a pas répéter, cela se sent tout de suite, et ne fais généralement pas bonne impression sur le jury;
+- Répétez pour être sûr de **respecter le temps alloué**, si vous finissez trop tôt ou trop tard ce n'est pas bon;
+- **Ne lisez pas vos slides**;
+- Ne tournez pas le dos aux membres du jury, regardez-les quand vous parlez (il y a des techniques de comédien pour regarder le public sans le regarder dans les yeux pour ne pas être déstabilisé·e : regardez un point sur leur front, regardez juste derrière eux, etc.);
+- **Venez faire du repérage dans la salle** avant la présentation, pour être plus à l'aise, regardez la taille et la forme de l'écran, testez l'affichage de votre présentation (couleurs, luminosité de la pièce);
+- Si vous êtes stressé·e à l'approche de votre passage, restez assis en attendant votre tour pour vous calmer. Marcher dans tous les sens maintient l'agitation;
+- Essayez d'être enthousiaste pendant votre présentation, vous la communiquerez aux membres du jury qui verra que vous prenez plaisir à partager, présenter votre travail et que vous y tenez;
+
+### Ressources utiles
+
+- [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), excellente conférence pleine de bons conseils sur comment communiquer vos idées à l'oral et à l'écrit, donnée par [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston). Je recommande de la regarder
