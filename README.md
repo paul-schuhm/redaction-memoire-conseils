@@ -130,7 +130,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - Dans le jury, certains membres auront lu le mémoire (rapporteur), d'autres non. **Les deux doivent pouvoir suivre votre présentation**. Les rapporteurs auront plus de détails, ils vous poseront généralement des questions sur le manuscrit pour éclaircir des points;
 - **Soyez critique** de votre propre travail (sans le démonter !), prenez du recul. Vous avez eu un temps *fini* pour réaliser ce travail, forcément vous n'avez pas pu faire tout ce que vous auriez voulu faire. **Votre travail a des limites, il faut les connaître**. Montrer dans quelle direction vous iriez si vous aviez plus de ressources pour continuer ce travail;
 - Pensez à **conclure** et à ouvrir des perspectives (concrètes);
-- **Ne restez pas trop général et évasif**; parlez du problème à résoudre et des choses concrètes mises en place pour le résoudre en enterprise;
+- **Ne restez pas trop général et évasif**; parlez du problème à résoudre et des choses concrètes mises en place pour le résoudre en entreprise;
 
 ### Quelques conseils sur le support de présentation
 
@@ -159,7 +159,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 
 ### Quelques conseils sur la présentation
 
-- **Répétez !** Répéter, même une fois, votre présentation est indispensable pour comprendre le flot de votre présentation. Répétez au moins deux fois. Quelqu'un qui n'a pas répéter, cela se sent tout de suite, et ne fais généralement pas bonne impression sur le jury;
+- **Répétez !** Répéter, même une fois, votre présentation est indispensable pour comprendre le flot de votre présentation. Répétez au moins deux fois. Quelqu'un qui n'a pas répété, cela se sent *tout de suite*, et ne fais généralement pas bonne impression sur le jury;
 - Répétez pour être sûr de **respecter le temps alloué**, si vous finissez trop tôt ou trop tard ce n'est pas bon;
 - **Ne lisez pas vos slides**;
 - Ne tournez pas le dos aux membres du jury, regardez-les quand vous parlez (il y a des techniques de comédien pour regarder le public sans le regarder dans les yeux pour ne pas être déstabilisé·e : regardez un point sur leur front, regardez juste derrière eux, etc.);
