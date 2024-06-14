@@ -138,7 +138,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - **Préférez une présentation en PDF**, c'est un format standardisé et léger;
 - Si vous avez une présentation plus riche (interactive, médias, etc.), disposez quand même une version PDF sous la main *au cas où*;
 - Si vous voulez **montrer une vidéo**, ne pas la mettre dans la diapo mais en **avoir une copie locale à jouer** le moment venu;
-- Si vous voulez **faire une démonstration technique**, **répétez-là** et **prévoyez un plan de secours** si elle ne marche pas (l'idéal étant d'en avoir un enregistrement à commenter)
+- Si vous voulez **faire une démonstration technique**, **répétez-là** et **prévoyez un plan de secours** si elle ne marche pas (l'idéal étant d'en avoir un enregistrement à commenter);
 - **Évitez les transitions et les animations inutiles**. Une animation est utile si elle est utile au propos (description d'un processus, d'une méthode, etc.);
 - Les slides sont un *support*, elles ne doivent pas faire la présentation à votre place;
 - Faites la **relire**, corrigez les fautes;
@@ -153,11 +153,11 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - **Numérotez vos slides !** Très important pour la partie question (le jury peut noter le numéro pour y revenir);
 - **Utilisez un schéma, une image, une figure plutôt que du texte** et commentez-là;
 - S'il y a du texte, **donnez du temps au jury de le lire**;
-- **Légendez vos figures**, tableaux, images. Indiquer la source de vos informations
+- **Légendez vos figures**, tableaux, images. Indiquer la source de vos informations;
 - Vous avez 25 minutes, vous ne devriez pas avoir plus de 25 slides (sauf cas d'animation "slide" par "slide"). Vous devez avoir des choses à dire sur chaque slide;
 - **Préparez des slides en annexe** (après la conclusion) pour la partie question. Si vous pensez que l'on va venir discuter un point précis, préparez vous des slides sur ce point. Cela vous offrira un support pour vous défendre;
 - **Placez les remerciements au début** de votre présentation, pas à la fin;
-- **Ne mettez pas une slide "Merci de votre attention" ou "Des questions ?" pour conclure**. Dites-le et **mettez une dernière slide utile** car elle risque de rester à l'écran pendant une partie des questions (voire 25 minutes !). L'idéal c'est qu'il y ait quelque chose en lien avec ce que votre travail a apporté (quelle est votre contribution à l'entreprise, quelles solutions avez-vous apportées au problème identifié)
+- **Ne mettez pas une slide "Merci de votre attention" ou "Des questions ?" pour conclure**. Dites-le et **mettez une dernière slide utile** car elle risque de rester à l'écran pendant une partie des questions (voire 25 minutes !). L'idéal c'est qu'il y ait quelque chose en lien avec ce que votre travail a apporté (quelle est votre contribution à l'entreprise, quelles solutions avez-vous apportées au problème identifié);
 
 
 ### Quelques conseils sur la présentation
