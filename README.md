@@ -164,7 +164,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - **Ne lisez pas vos slides**;
 - Ne tournez pas le dos aux membres du jury, regardez-les quand vous parlez (il y a des techniques de comédien pour regarder le public sans le regarder dans les yeux pour ne pas être déstabilisé·e : regardez un point sur leur front, regardez juste derrière eux, etc.);
 - **Venez faire du repérage dans la salle** avant la présentation, pour être plus à l'aise, regardez la taille et la forme de l'écran, testez l'affichage de votre présentation (couleurs, luminosité de la pièce);
-- Si vous êtes stressé·e à l'approche de votre passage, restez assis en attendant votre tour pour vous calmer. Marcher dans tous les sens maintient l'agitation;
+- Si vous êtes stressé·e à l'approche de votre passage, restez assis·e en attendant votre tour pour vous calmer. Marcher dans tous les sens maintient l'agitation;
 - Essayez d'être enthousiaste pendant votre présentation, vous la communiquerez aux membres du jury qui verra que vous prenez plaisir à partager, présenter votre travail et que vous y tenez;
 
 ### Ressources utiles
