@@ -137,6 +137,8 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - Si vous utilisez une application web pour votre support, **ayez une copie locale** (même dégradée) sur votre machine. Vous n'êtes jamais à l'abri d'un problème de connexion à Internet;
 - **Préférez une présentation en PDF**, c'est un format standardisé et léger;
 - Si vous avez une présentation plus riche (interactive, médias, etc.), disposez quand même une version PDF sous la main *au cas où*;
+- Si vous voulez **montrer une vidéo**, ne pas la mettre dans la diapo mais en **avoir une copie locale à jouer** le moment venu;
+- Si vous voulez **faire une démonstration technique**, **répétez-là** et **prévoyez un plan de secours** si elle ne marche pas (l'idéal étant d'en avoir un enregistrement à commenter)
 - **Évitez les transitions et les animations inutiles**. Une animation est utile si elle est utile au propos (description d'un processus, d'une méthode, etc.);
 - Les slides sont un *support*, elles ne doivent pas faire la présentation à votre place;
 - Faites la **relire**, corrigez les fautes;
