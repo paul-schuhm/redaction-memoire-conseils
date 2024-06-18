@@ -103,7 +103,7 @@ Le plus simple pour écrire et publier un document, est de travailler avec *de s
 - *"Separation of concerns"* : l'auteur·ice se concentre sur le contenu et le markup (la hiérarchie de l'information et la sémantique), l'éditeur·ice sur la mise en page. En somme, vous êtes concentré·e sur l'écriture;
 - *Une source, plusieurs publications* : à partir de simples fichiers textes et de langages à balises légers, il est possible de publier *un même contenu* vers *plusieurs formats* (PDF, HTML, XML, LateX, etc.). 
 - *Environnement simple* : vous travaillez sur un fichier texte à la fois (votre document est découpé en de nombreux fichiers), facilement partageable et *versionnable* (avec git), sans distraction et ce peu importe la taille de votre document. 
-- *Format texte universel* : comme les sources sont de simples fichiers textes (et non des formats binaires ou des archives), vous n'êtes dépendant·e *d'aucune technologie particulière* pour les lire et les éditer. Il sera toujours possible de lire et d'éditer *facilement* un fichier texte sur n'importe quelle machine dans 2000 ans. Pourras-t-on en dire autant d'un fichier .doc ou .odt ?.
+- *Format texte universel* : comme les sources sont de simples fichiers textes (et non des formats binaires ou des archives), vous n'êtes dépendant·e *d'aucune technologie particulière* pour les lire et les éditer. Il sera toujours possible de lire et d'éditer *facilement* un fichier texte sur n'importe quelle machine dans 2000 ans. -t-on en dire autant d'un fichier `.doc` ou `.odt` ?.
 
 Publier revient alors à convertir les sources (ou les compiler) en un document PDF, HTML, epub, etc.
 
