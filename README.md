@@ -23,7 +23,7 @@ Quelques conseils pratiques sur la rédaction et la soutenance d'un mémoire.
 
 ## Rédaction
 
-Rédiger un mémoire c'est *produire* un *document* (manuscrit) destiné à l'*impression* (PDF, papier). Le but d'un mémoire c'est avant tout d'être *écrit* (bénéfice pour son auteur·ice : temps de synthèse, bibliographie utile, réflexion documentée et argumentée). Ensuite, c'est d'être *accessible* et *parcouru*, consulté, "lu" par d'autres personnes. Souvent, des personnes intéressées ne liront qu'une, voire deux parties tout au plus. Pour rendre ce document *utile* aux lecteur·ices (dont l'auteur·ice fait partie), il doit donc respecter certaines contraintes, conventions pour faciliter sa lecture.
+Rédiger un mémoire c'est *produire* un *document* (manuscrit) destiné à l'*impression* (PDF, papier). Le but d'un mémoire c'est avant tout d'être *écrit* (bénéfice pour son auteur·ice : temps de synthèse, bibliographie utile, réflexion documentée et argumentée). Ensuite, c'est d'être *accessible* et *parcouru*, consulté ou "lu" par d'autres personnes. Des personnes intéressées n'en liront souvent qu'une ou deux parties. Pour rendre ce document *utile* aux lecteur·ices (dont l'auteur·ice fait partie), il donc faut faciliter sa lecture et sa *navigabilité*. Pour cela, il doit respecter certaines contraintes et conventions.
 
 ### Le fond
 
