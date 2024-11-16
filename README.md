@@ -176,3 +176,4 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 ### Ressources utiles
 
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), excellente conférence pleine de bons conseils sur comment communiquer vos idées à l'oral et à l'écrit, donnée par [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston). Je recommande de la regarder
+- [Se former à l'écriture et l'écriture technique](https://github.com/paul-schuhm/ecriture-technique), un dépôt listant de nombreuses ressources pour vous aider à mieux réfléchir et exprimer vos idées
