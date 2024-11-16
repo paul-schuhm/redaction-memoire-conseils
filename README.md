@@ -18,7 +18,7 @@ Quelques conseils pratiques sur la rédaction et la soutenance d'un mémoire.
     - [Quelques conseils généraux](#quelques-conseils-généraux)
     - [Quelques conseils sur le support de présentation](#quelques-conseils-sur-le-support-de-présentation)
     - [Quelques conseils sur la présentation](#quelques-conseils-sur-la-présentation)
-    - [Ressources utiles](#ressources-utiles)
+  - [Ressources utiles](#ressources-utiles)
 
 
 ## Rédaction
@@ -173,7 +173,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - Si vous êtes stressé·e à l'approche de votre passage, restez assis·e en attendant votre tour pour vous calmer. Marcher dans tous les sens maintient l'agitation;
 - Essayez d'être enthousiaste pendant votre présentation, vous la communiquerez aux membres du jury qui verra que vous prenez plaisir à partager, présenter votre travail et que vous y tenez;
 
-### Ressources utiles
+## Ressources utiles
 
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), excellente conférence pleine de bons conseils sur comment communiquer vos idées à l'oral et à l'écrit, donnée par [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston). Je recommande de la regarder
 - [Se former à l'écriture et l'écriture technique](https://github.com/paul-schuhm/ecriture-technique), un dépôt listant de nombreuses ressources pour vous aider à mieux réfléchir et exprimer vos idées
