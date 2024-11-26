@@ -11,7 +11,7 @@ Quelques conseils pratiques sur la rédaction et la soutenance d'un mémoire.
     - [La forme](#la-forme)
       - [Production du document](#production-du-document)
       - [Les outils pour publier un document technique](#les-outils-pour-publier-un-document-technique)
-      - [Autre solutions](#autre-solutions)
+      - [Autres solutions](#autres-solutions)
     - [Quelques solutions et outils utiles](#quelques-solutions-et-outils-utiles)
   - [Soutenance](#soutenance)
     - [Contraintes](#contraintes)
@@ -38,11 +38,12 @@ Vous êtes donc dans la peau d'un *expert* qui doit *auditer* un système (son e
 
 #### Contenu
 
-- La présentation du contexte (entreprise) et des enjeux (problématique);
-- La présentation du sujet, des objectifs et des résultats attendus (comment vérifier que votre solution fonctionne ou non);
-- La synthèse de ce qui a été fait ou de ce qui existait avant le début de votre action (analyse de l'existant, travail bibliographique)
-- Les solutions envisagées, les justifications des choix;
-- Les résultats obtenus;
+- La présentation du contexte (entreprise) et des enjeux;
+- La présentation de la problématique, des objectifs, des résultats attendus (comment vérifier que votre solution fonctionne ou non), de la méthodo, du plan
+- La synthèse de ce qui a été fait ou de ce qui existait avant le début de votre action (analyse détaillée de l'existant, montrer concrètement le problème)
+- Etat de l'art, travail bibliographique, entretiens, solutions envisagées (sourcé)
+- Choix argumenté et mise en oeuvre de solution (pourquoi, comment)
+- Les résultats obtenus (ou attendus), atteinte des objectifs ?
 - Les tâches restant à effectuer, les axes de poursuite possible;
 - Les conclusions sur le sujet, les difficultés rencontrées, etc. ;
 - Les références bibliographiques (les documents utilisés pour mener à bien les recherches, les interviews, les ouvrages, les articles, etc.)
