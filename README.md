@@ -51,18 +51,18 @@ Vous êtes donc dans la peau d'un *expert* qui doit *auditer* un système (son e
 
 #### Conseils
 
-- Relisez-vous et **faites vous relire par un proche** (même voire surtout hors de votre domaine)
+- Relisez-vous et **faites-vous relire par un proche** (même voir surtout hors de votre domaine)
 - Faites des phrases simples et brèves;
 - Utilisez des mots précis et dont vous connaissez bien le sens. Idem, choisissez des verbes *forts* et évitez les verbes génériques. Si vous introduisez un terme, réutilisez-le à nouveau sans introduire de synonyme si ce n'est pas nécessaire;
 - Minimisez l'usage d'adjectifs et d'adverbes (souvent trop subjectifs);
 - Transformez les phrases longues et les énumérations en listes à puces (plus lisible);
-- Si vous introduisez un acronyme, l'écrire d'abord sous sa forme complète puis sous sa forme abrégée entre parenthèses. Restez ensuite sur l'acronyme dans la suite du texte;
+- Si vous introduisez un acronyme, l'écrire d'abord sous sa forme complète, puis sous sa forme abrégée entre parenthèses. Restez ensuite sur l'acronyme dans la suite du texte;
 - Évitez l'emploi du jargon très spécifique de l'entreprise dont elle seule peut donner la définition. Si de nombreux acronymes et termes techniques, *utilisez un lexique*.
 - Évitez le "franglais" et l'abus de l'anglais;
 - Vérifiez l'orthographe, la grammaire, le style et la ponctuation;
 - Veillez à la lisibilité et à l'utilité des figures (schémas, graphiques, photos, screenshot, etc.);
 - *Légendez* vos figures (identifiant, description). Vous pouvez ainsi vous y référer dans le texte (*Comme le montre la figure 12, ...*). Si pas de référence à la figure dans le texte, supprimez-la ou placez-la en annexe (support optionnel pour aller plus loin);
-- N'hésitez pas, en conclusion en particulier, à donner votre avis personnel motivé, mais formulez vos éventuelles critiques ou remarques *de manière nuancée et modérée*. Gardez un ton *professionnel*. Préconisez une solution après avoir évalué les avantages et inconvénients, *justifier* votre proposition
+- N'hésitez pas, en conclusion en particulier, à donner votre avis personnel motivé, mais formulez vos éventuelles critiques ou remarques *de manière nuancée et modérée*. Gardez un ton *professionnel*. Préconisez une solution après avoir évalué les avantages et inconvénients, *justifier* votre proposition.
 - *Sourcez vos informations* (affirmations, chiffres, statistiques, etc.), soit à l'aide de *citation*. Une *citation* est un lien vers l'entrée correspondante dans la bibliographie du document. Votre éditeur doit vous permettre de gérer les citations de manière automatique. Dans le cas d'une ressource web, mettre un hyperlien vers cette ressource directement dans le texte.
 - *Écrivez d'abord*, mettez en forme ensuite;
 
@@ -82,7 +82,7 @@ Votre document *doit* contenir les éléments suivants :
 - Des annexes;
 - Des titres de différents niveaux adaptés et cohérents (h1, h2, h3);
 - Une mise en page cohérente (font, taille de la font, couleurs, espacements, etc.);
-- Des figures légendées. Les figures *doivent servir le propos*, et non simplement illustrer la page
+- Des figures légendées. Les figures *doivent servir le propos*, et non simplement illustrer la page.
 
 À l'impression (PDF ou papier), il doit répondre aux *contraintes* suivantes :
 
@@ -97,12 +97,12 @@ Si vous utilisez un éditeur WYSIWYG comme Microsoft Word, LibreOffice ou Google
 
 > Choisissez l'outil que vous maîtrisez le mieux, surtout si vous manquez de temps. Ce n'est pas le bon moment pour vous lancer dans l'apprentissage d'un nouvel outil et vous rajouter du stress inutile...
 
-#### Autre solutions
+#### Autres solutions
 
 Le plus simple pour écrire et publier un document, est de travailler avec *de simples fichiers textes* et de *séparer* la forme du contenu. Voici quelques avantages de cette approche :
 - *"Separation of concerns"* : l'auteur·ice se concentre sur le contenu et le markup (la hiérarchie de l'information et la sémantique), l'éditeur·ice sur la mise en page. En somme, vous êtes concentré·e sur l'écriture;
 - *Une source, plusieurs publications* : à partir de simples fichiers textes et de langages à balises légers, il est possible de publier *un même contenu* vers *plusieurs formats* (PDF, HTML, XML, LateX, etc.). 
-- *Environnement simple* : vous travaillez sur un fichier texte à la fois (votre document est découpé en de nombreux fichiers), facilement partageable et *versionnable* (avec git), sans distraction et ce peu importe la taille de votre document. 
+- *Environnement simple* : vous travaillez sur un fichier texte à la fois (votre document est découpé en de nombreux fichiers), facilement partageable et *versionnable* (avec git), sans distraction, et ce, peu importe la taille de votre document. 
 - *Format texte universel* : comme les sources sont de simples fichiers textes (et non des formats binaires ou des archives), vous n'êtes dépendant·e *d'aucune technologie particulière* pour les lire et les éditer. Il sera toujours possible de lire et d'éditer *facilement* un fichier texte sur n'importe quelle machine dans 2000 ans. -t-on en dire autant d'un fichier `.doc` ou `.odt` ?.
 
 Publier revient alors à convertir les sources (ou les compiler) en un document PDF, HTML, epub, etc.
@@ -117,11 +117,11 @@ Publier revient alors à convertir les sources (ou les compiler) en un document 
 - [Pandoc](https://pandoc.org/), convertisseur universel de document d'un langage markup à l'autre. *Grâce ce formidable outil*, vous pouvez utiliser ou mettre en place de nombreux workflows pour convertir ses sources et publier des documents en travaillant comme il vous convient
 - [Bibtex](https://www.bibtex.org/), outil et format pour gérer une base de données bibliographique (principalement utilisée avec LaTeX)
 
-> Quand j'aurais le temps, des kits de démarrage seront publiés sur ce dépôt pour une ou deux technologies mentionnées
+> Quand j'aurai le temps, des kits de démarrage seront publiés sur ce dépôt pour une ou deux technologies mentionnées
 
 ## Soutenance
 
-Soutenir son mémoire c'est le défendre. C'est le moment de mettre en valeur votre travail. Vous avez la main durant la première partie (présentation). **Insistez sur les parties les plus significatives et développez-les, mettez en retrait celles qui sont moins convaincantes, ou vous semblent moins pertinentes**. Il ne s'agit pas de reproduire *à plat* le déroulement du manuscrit, ni de le "rejouer" à l'oral. 
+Soutenir son mémoire c'est le défendre. C'est le moment de mettre en valeur votre travail. Vous avez la main durant la première partie (présentation). **Insistez sur les parties les plus significatives et développez-les, mettez en retrait celles qui sont moins convaincantes, ou vous semblent moins pertinentes**. Il ne s'agit pas de reproduire *à plat* le déroulement du manuscrit ni de le "rejouer" à l'oral. 
 
 ### Contraintes
 
@@ -131,7 +131,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 
 - **Racontez une histoire**, votre progression doit faire sens;
 - Dans le jury, certains membres auront lu le mémoire (rapporteur), d'autres non. **Les deux doivent pouvoir suivre votre présentation**. Les rapporteurs auront plus de détails, ils vous poseront généralement des questions sur le manuscrit pour éclaircir des points;
-- **Soyez critique** de votre propre travail (sans le démonter !), prenez du recul. Vous avez eu un temps *fini* pour réaliser ce travail, forcément vous n'avez pas pu faire tout ce que vous auriez voulu faire. **Votre travail a des limites, il faut les connaître**. Montrer dans quelle direction vous iriez si vous aviez plus de ressources pour continuer ce travail;
+- **Soyez critique** de votre propre travail (sans le démonter !), prenez du recul. Vous avez eu un temps *fini* pour réaliser ce travail, forcément, vous n'avez pas pu faire tout ce que vous auriez voulu faire. **Votre travail a des limites, il faut les connaître**. Montrer dans quelle direction vous iriez si vous aviez plus de ressources pour continuer ce travail;
 - Pensez à **conclure** et à ouvrir des perspectives (concrètes);
 - **Ne restez pas trop général et évasif**; parlez du problème à résoudre et des choses concrètes mises en place pour le résoudre en entreprise;
 
@@ -141,10 +141,10 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - **Préférez une présentation en PDF**, c'est un format standardisé et léger;
 - Si vous avez une présentation plus riche (interactive, médias, etc.), disposez quand même une version PDF sous la main *au cas où*;
 - Si vous voulez **montrer une vidéo**, ne pas la mettre dans la diapo mais en **avoir une copie locale à jouer** le moment venu;
-- Si vous voulez **faire une démonstration technique**, **répétez-là** et **prévoyez un plan de secours** si elle ne marche pas (l'idéal étant d'en avoir un enregistrement à commenter);
+- Si vous voulez **faire une démonstration technique**, **répétez là** et **prévoyez un plan de secours** si elle ne marche pas (l'idéal étant d'en avoir un enregistrement à commenter);
 - **Évitez les transitions et les animations inutiles**. Une animation est utile si elle est utile au propos (description d'un processus, d'une méthode, etc.);
 - Les slides sont un *support*, elles ne doivent pas faire la présentation à votre place;
-- Faites la **relire**, corrigez les fautes;
+- Faites-la **relire**, corrigez les fautes;
 - Veillez à la **lisibilité** des schémas, figures et du texte;
 - **Ne surchargez pas vos slides**, **aérez-les** (comme l'espace blanc d'une page web);
 - Veillez à bien **respecter la hiérarchie de l'information sur les slides** (titre de niveau 1, 2, liste à puces, paragraphe). Maintenez un design, visuel **cohérent** (police, taille/ratio des tailles de police, couleur, poids de la font pour l'emphase, etc.)
@@ -154,11 +154,11 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
   - Texte (p) : 24pt et 28pt;
   - Mentions obligatoires (légal) : 8 à 10pt
 - **Numérotez vos slides !** Très important pour la partie question (le jury peut noter le numéro pour y revenir);
-- **Utilisez un schéma, une image, une figure plutôt que du texte** et commentez-là;
+- **Utilisez un schéma, une image, une figure plutôt que du texte** et commentez là;
 - S'il y a du texte, **donnez du temps au jury de le lire**;
 - **Légendez vos figures**, tableaux, images. Indiquer la source de vos informations;
 - Vous avez 25 minutes, vous ne devriez pas avoir plus de 25 slides (sauf cas d'animation "slide" par "slide"). Vous devez avoir des choses à dire sur chaque slide;
-- **Préparez des slides en annexe** (après la conclusion) pour la partie question. Si vous pensez que l'on va venir discuter un point précis, préparez vous des slides sur ce point. Cela vous offrira un support pour vous défendre;
+- **Préparez des slides en annexe** (après la conclusion) pour la partie question. Si vous pensez que l'on va venir discuter un point précis, préparez-vous des slides sur ce point. Cela vous offrira un support pour vous défendre;
 - **Placez les remerciements au début** de votre présentation, pas à la fin;
 - **Ne mettez pas une slide "Merci de votre attention" ou "Des questions ?" pour conclure**. Dites-le et **mettez une dernière slide utile** car elle risque de rester à l'écran pendant une partie des questions (voire 25 minutes !). L'idéal c'est qu'il y ait quelque chose en lien avec ce que votre travail a apporté (quelle est votre contribution à l'entreprise, quelles solutions avez-vous apportées au problème identifié);
 
@@ -166,7 +166,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 ### Quelques conseils sur la présentation
 
 - **Répétez !** Répéter, même une fois, votre présentation est indispensable pour comprendre le flot de votre présentation. Répétez au moins deux fois. Quelqu'un qui n'a pas répété, cela se sent *tout de suite*, et ne fais généralement pas bonne impression sur le jury;
-- Répétez pour être sûr de **respecter le temps alloué**, si vous finissez trop tôt ou trop tard ce n'est pas bon;
+- Répétez pour être sûr de **respecter le temps alloué**, si vous finissez trop tôt ou trop tard, ce n'est pas bon;
 - **Ne lisez pas vos slides**;
 - Ne tournez pas le dos aux membres du jury, regardez-les quand vous parlez (il y a des techniques de comédien pour regarder le public sans le regarder dans les yeux pour ne pas être déstabilisé·e : regardez un point sur leur front, regardez juste derrière eux, etc.);
 - **Venez faire du repérage dans la salle** avant la présentation, pour être plus à l'aise, regardez la taille et la forme de l'écran, testez l'affichage de votre présentation (couleurs, luminosité de la pièce);
@@ -175,5 +175,5 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 
 ## Ressources utiles
 
-- [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), excellente conférence pleine de bons conseils sur comment communiquer vos idées à l'oral et à l'écrit, donnée par [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston). Je recommande de la regarder
+- [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), excellente conférence pleine de bons conseils sur comment communiquer vos idées à l'oral et à l'écrit, donnée par [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston). Je recommande de la regarder.
 - [Se former à l'écriture et l'écriture technique](https://github.com/paul-schuhm/ecriture-technique), un dépôt listant de nombreuses ressources pour vous aider à mieux réfléchir et exprimer vos idées
