@@ -178,3 +178,6 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 
 - [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY), excellente conférence pleine de bons conseils sur comment communiquer vos idées à l'oral et à l'écrit, donnée par [Patrick Winston](https://en.wikipedia.org/wiki/Patrick_Winston). Je recommande de la regarder.
 - [Se former à l'écriture et l'écriture technique](https://github.com/paul-schuhm/ecriture-technique), un dépôt listant de nombreuses ressources pour vous aider à mieux réfléchir et exprimer vos idées
+- [UMLet](https://www.umlet.com/), outil simple et puissant pour créer *rapidement* des diagrammes (UML) à partir de texte. Export vers svg, png, etc.
+- [Mermaid](https://mermaid.js.org/), réaliser des diagrammes et graphiques à partir de simples fichiers Markdown
+- [Excalidraw](https://excalidraw.com/), "tableau blanc" de *sketching*. Bien pour faire des schémas rapidement, avec un look and feel "tracé à la main". [Outil open-source](https://github.com/excalidraw/excalidraw), que l'on peut mettre en place en local
