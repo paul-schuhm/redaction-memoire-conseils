@@ -26,7 +26,7 @@ Quelques conseils pratiques sur la rédaction et la soutenance d'un mémoire.
 Rédiger un mémoire c'est *produire* un *document* (manuscrit) destiné à l'*impression* (PDF, papier). L'objectif d'un mémoire est double :
 
 - D'être *écrit* (bénéfice pour son auteur·ice : temps de synthèse, bibliographie utile, réflexion documentée et argumentée);
-- D'être *accessible* et *parcouru*, consulté ou "lu" par d'autres personnes. Des personnes intéressées n'en liront souvent qu'une ou deux parties. Pour rendre ce document *utile* aux lecteur·ices (dont l'auteur·ice fait partie), il donc faut faciliter sa lecture et sa *navigabilité*. Pour cela, il doit respecter certaines contraintes et conventions.
+- D'être *accessible* et *parcouru*, consulté ou "lu" par d'autres personnes. Des personnes intéressées n'en liront souvent qu'une ou deux parties. Pour rendre ce document *utile* aux lecteur·ices (dont l'auteur·ice fait partie), il faut donc faciliter sa lecture et veiller à sa bonne *navigabilité*. Pour cela, il doit respecter certaines contraintes et conventions.
 
 ### Le fond
 
@@ -34,15 +34,15 @@ Rédiger un mémoire c'est *produire* un *document* (manuscrit) destiné à l'*i
 
 Trouver un problème pratique *de l’entreprise* et d’en identifier la dimension théorique. C'est *un état de fait*, le constat d'un problème. Le but est ensuite de transformer la problématique en question afin de la résoudre ou du moins, d'en proposer une solution.
 
-Vous êtes donc dans la peau d'un *expert* qui doit *auditer* un système (son entreprise), *identifier* un problème et *proposer* une ou plusieurs solutions pour le résoudre. Pour cela, vous devez vous appuyer sur votre expérience, vos connaissances et surtout *sur un travail bibliographique*. Il s'agit de prendre du recul, de comprendre ce qu'on fait d'autres personnes qui ont fait face au même problème et de dresser un éventail de solutions connues et documentées. Ces solutions peuvent ensuite être adaptées au contexte de l'entreprise.
+Vous êtes donc dans la peau d'un·e *expert·e* qui doit *auditer* un système (son entreprise), *identifier* un problème et *proposer* une ou plusieurs solutions pour le résoudre. Pour cela, vous devez vous appuyer sur votre expérience, vos connaissances et surtout *sur un travail bibliographique*. Il s'agit de prendre du recul, de comprendre ce qu'on fait d'autres personnes qui ont fait face aux mêmes problèmes ou à des problèmes similaires, et de dresser un éventail de solutions connues et documentées. Ces solutions peuvent ensuite être adaptées au contexte de l'entreprise.
 
 #### Contenu
 
 - La présentation du contexte (entreprise) et des enjeux;
-- La présentation de la problématique, des objectifs, des résultats attendus (comment vérifier que votre solution fonctionne ou non), de la méthodo, du plan
-- La synthèse de ce qui a été fait ou de ce qui existait avant le début de votre action (analyse détaillée de l'existant, montrer concrètement le problème)
-- Etat de l'art, travail bibliographique, entretiens, solutions envisagées (sourcé)
-- Choix argumenté et mise en oeuvre de solution (pourquoi, comment)
+- La présentation de la problématique, des objectifs, des résultats attendus (comment vérifier que votre solution fonctionne ou non), de la méthode, du plan;
+- La synthèse de ce qui a été fait ou de ce qui existait avant le début de votre action (analyse détaillée de l'existant, montrer concrètement le problème);
+- État de l'art, travail bibliographique, entretiens, solutions envisagées (sourcé)
+- Choix argumenté et mise en œuvre de solution (pourquoi, comment)
 - Les résultats obtenus (ou attendus), atteinte des objectifs ?
 - Les tâches restant à effectuer, les axes de poursuite possible;
 - Les conclusions sur le sujet, les difficultés rencontrées, etc. ;
