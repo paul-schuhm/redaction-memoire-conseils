@@ -160,7 +160,7 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - **Légendez vos figures**, tableaux, images. Indiquer la source de vos informations;
 - Vous avez 25 minutes, vous ne devriez pas avoir plus de 25 slides (sauf cas d'animation "slide" par "slide"). Vous devez avoir des choses à dire sur chaque slide;
 - **Préparez des slides en annexe** (après la conclusion) pour la partie question. Si vous pensez que l'on va venir discuter un point précis, préparez-vous des slides sur ce point. Cela vous offrira un support pour vous défendre;
-- **Placez les remerciements au début** de votre présentation, pas à la fin;
+- **Placez les remerciements à vos collègues/pairs au début** de votre présentation, pas à la fin;
 - **Ne mettez pas une slide "Merci de votre attention" ou "Des questions ?" pour conclure**. Dites-le et **mettez une dernière slide utile** car elle risque de rester à l'écran pendant une partie des questions (voire 25 minutes !). L'idéal c'est qu'il y ait quelque chose en lien avec ce que votre travail a apporté (quelle est votre contribution à l'entreprise, quelles solutions avez-vous apportées au problème identifié);
 
 
