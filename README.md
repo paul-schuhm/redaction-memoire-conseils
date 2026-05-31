@@ -150,10 +150,10 @@ La soutenance comporte un exposé de **25 minutes maximum**, suivi d’un échan
 - **Ne surchargez pas vos slides**, **aérez-les** (comme l'espace blanc d'une page web);
 - Veillez à bien **respecter la hiérarchie de l'information sur les slides** (titre de niveau 1, 2, liste à puces, paragraphe). Maintenez un design, visuel **cohérent** (police, taille/ratio des tailles de police, couleur, poids de la font pour l'emphase, etc.)
 - Tailles de police recommandées :
-  - Titre principal (h1) : 44pt;
-  - Titres (h2) : entre 28 et 36pt;
-  - Texte (p) : 24pt et 28pt;
-  - Mentions obligatoires (légal) : 8 à 10pt
+  - Titre principal (H1) : 44pt;
+  - Titres (H2) : entre 28 et 36pt;
+  - Texte (P) : 24pt et 28pt;
+  - Mentions obligatoires (légal), citations, références, notes de bas de slide : 8 à 10pt
 - **Numérotez vos slides !** Très important pour la partie question (le jury peut noter le numéro pour y revenir);
 - **Utilisez un schéma, une image, une figure plutôt que du texte** et commentez là;
 - S'il y a du texte, **donnez du temps au jury de le lire**;
